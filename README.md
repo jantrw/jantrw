@@ -23,11 +23,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://i.imgur.com/9FhaE5v.jpeg' style="height: 400px;"/>
-
-[![](https://visitcount.itsvg.in/api?id=janferech&icon=5)](https://visitcount.itsvg.in)
-
----
-
-
-
-
