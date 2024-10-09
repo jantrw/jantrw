@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some object oriented Java programs<br>🌱 I’m currently learning Java, SQL,  Python, Batch ect.<br>👯 I’m looking to collaborate on discord: crazilegs<br>👨‍💻 All of my projects are available at https://github.com/janferech<br>📫 How to reach me discord: crazilegs<br>⚡ Fun fact "backend > frontend"
+🔭 I’m currently working on some object oriented Java programs<br>🌱 I’m currently learning Java, SQL,  Python, Batch, Bash and Juliaect.<br>👯 I’m looking to collaborate on discord: crazilegs<br>👨‍💻 All of my projects are available at https://github.com/janferech<br>📫 How to reach me discord: crazilegs<br>⚡ Fun fact "backend > frontend"
 
 
 ## 🌐 Socials:
