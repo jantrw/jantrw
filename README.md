@@ -17,5 +17,4 @@
 ### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=janferech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src='https://i.imgur.com/9FhaE5v.jpeg' style="height: 400px;"/>
