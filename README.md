@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ### 🧑🏻‍💻 I’m currently working on ...
-  - [Discord-Bot]([https://github.com/jantrw/discord-bot]), a Discord-Bot which provides ISS Data and uses the NASA-API 
+  - [Discord-Bot](https://github.com/jantrw/discord-bot), a Discord-Bot which provides ISS Data and uses the NASA-API 
     https://github.com/jantrw/discord-bot
 ### 🌱 I’m currently learning 
   - Java
