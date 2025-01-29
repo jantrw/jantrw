@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working as a Software Developer in the public sector, but I cannot disclose the specific agency due to security reasons and the confidentiality of the organization <br>🌱 I’m currently learning Java, SQL, Shell-Scripting, Batch, Bash and Julia <br> 👨‍💻 All of my projects are available at https://github.com/janferech<br>📫 How to reach me github: janferech<br>⚡ Fun fact "backend > frontend"
+### Hi there! 👋
+
+### 🧑🏻‍💻 I’m currently working on ...
+  - [Discord-Bot]([https://github.com/jantrw/discord-bot]), a Discord-Bot which provides ISS Data and uses the NASA-API 
+    https://github.com/jantrw/discord-bot
+### 🌱 I’m currently learning 
+  - Java
+  - Shell-Scripting
+  - MySQL
+  - Julia
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
