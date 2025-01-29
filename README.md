@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 ### 🧑🏻‍💻 I’m currently working on ...
-  - [Discord-Bot](https://github.com/jantrw/discord-bot), a Discord-Bot which provides ISS Data and uses the NASA-API 
+  - [Discord-Bot](https://github.com/jantrw/discord-bot), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀
     https://github.com/jantrw/discord-bot
 ### 🌱 I’m currently learning 
   - Java
