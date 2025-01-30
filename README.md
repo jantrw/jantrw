@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 ### 🧑🏻‍💻 I’m currently working on ...
-  - [StarLinker](https://github.com/jantrw/StarLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
-    https://github.com/jantrw/StarLinker
+  - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
+    https://github.com/jantrw/SpaceLinker
 ### 🌱 I’m currently learning 
   - Java
   - Shell-Scripting
