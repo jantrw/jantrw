@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning 
   - Java
   - Shell-Scripting
-  - Databases (--> SQL)
+  - Databases (--> MySQL)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
