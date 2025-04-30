@@ -6,6 +6,14 @@
     
   - (Comming soon...)[ TankBuddy](https://github.com/jantrw/TankBuddy), an app that integrates fuel price APIs to display real-time fuel prices in your city, helping you find the cheapest gas station. Future updates will include price trends and regional analysis. ⛽📊  
     https://github.com/jantrw/TankBuddy
+### 🤝 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jan-trautwein" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jan Trautwein LinkedIn" height="30" width="40" />
+  </a>
+</p>
+    
 ### 🌱 I’m currently learning 
   - Java
   - Shell-Scripting
