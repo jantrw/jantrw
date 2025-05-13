@@ -5,7 +5,6 @@
     https://github.com/jantrw/SpaceLinker
 
   - (Coming soon...) [VoidGuard](https://github.com/jantrw/VoidGuard), a tower defense game built with Java and the [LibGDX Game Engine](https://libgdx.com/).
-
     The game features a pixel-style space setting where you must defend against waves of alien invaders. Strategically place defense towers to protect your territory from hostile extraterrestrial forces.
 
     
