@@ -1,4 +1,4 @@
-### Hi there! 🤖
+### Hi there! 👋🖖🤖
 
 ### 🧑🏻‍💻 I’m currently working on ...
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
