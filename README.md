@@ -1,15 +1,14 @@
 ### Hi there! 👋🖖🤖
 
 ### 🧑🏻‍💻 I’m currently working on ...
+  - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a Java-Application that provides ClashRoyale User data by using the ClashRoyale-API, including trophies, winrate and matchhistory using JavaFX.
+  
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
     https://github.com/jantrw/SpaceLinker
-
-  - (Coming soon...) [VoidGuard](https://github.com/jantrw/VoidGuard), a tower defense game built with Java and the [LibGDX Game Engine](https://libgdx.com/).
-    The game features a pixel-style space setting where you must defend against waves of alien invaders. Strategically place defense towers to protect your territory from hostile extraterrestrial forces.
-
     
   - (Comming soon...)[ TankBuddy](https://github.com/jantrw/TankBuddy), an app that integrates fuel price APIs to display real-time fuel prices in your city, helping you find the cheapest gas station. Future updates will include price trends and regional analysis. ⛽📊  
     https://github.com/jantrw/TankBuddy
+    
 ### 🤝 Connect with me:
 
 <p align="left">
