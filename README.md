@@ -19,6 +19,8 @@
     
 ### 🌱 I’m currently learning 
   - Java
+  - Python for AI & Machine Learning
+      --> currently experimenting with TensorFlow and Keras; trained my own Convolutional Neural Network model with 98–99% accuracy
   - Shell-Scripting
   - Databases
   - Linux Administration
