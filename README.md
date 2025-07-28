@@ -2,6 +2,8 @@
 
 ### 🧑🏻‍💻 I’m currently working on ...
   - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built with a modular view-controller structure and responsive UI for a clean, desktop-native experience.
+
+    https://github.com/jantrw/ClashRoyale-Tracker
   
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
     https://github.com/jantrw/SpaceLinker
