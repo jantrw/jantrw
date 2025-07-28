@@ -28,11 +28,14 @@
   - CCNA on Cisco
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) **Java**: Eine vielseitige, objektorientierte Programmiersprache, bekannt für ihre Plattformunabhängigkeit und robuste APIs.
+- ![AI](https://img.shields.io/badge/AI-FF69B4?style=flat&logo=ai&logoColor=white) **AI**: Künstliche Intelligenz, einschließlich maschinellem Lernen, Deep Learning und anderen KI-Technologien.
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Eine leistungsstarke, vielseitige Programmiersprache, geschätzt für ihre Lesbarkeit und breite Anwendbarkeit.
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) **Linux**: Ein Open-Source-Betriebssystem, das in der Softwareentwicklung für Verwaltung und Deployment genutzt wird.
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white) **SQL**: Strukturierte Abfragesprache für Datenbankmanagementsysteme.
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**: Ein leistungsstarkes, Open-Source-Datenbankmanagementsystem.
+- ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) **Bash**: Bourne Again SHell, eine Unix-Shell und Befehlssprache.
 
 
 ### ✍️ Random Dev Quote
