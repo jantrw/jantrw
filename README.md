@@ -58,8 +58,4 @@
   </a>
 </p>
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <img src='https://i.imgur.com/9FhaE5v.jpeg' style="height: 400px;"/>
