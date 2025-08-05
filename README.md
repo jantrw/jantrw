@@ -20,9 +20,8 @@
     
 ### 🌱 I’m currently learning 
   - Java
-  - Python for AI & Machine Learning
-      --> currently experimenting with TensorFlow and Keras; trained my own Convolutional Neural Network model with 98–99% accuracy
-  - Shell-Scripting
+  - Computer Vision & Machine Learning
+      --> trained my own EfficientNetB2 with 9.2 million parameters, achieving 98–99% accuracy using TensorFlow and Keras
   - Databases
   - Linux Administration
   - CCNA on Cisco
