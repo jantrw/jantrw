@@ -20,7 +20,7 @@
     
 ### 🌱 I’m currently learning 
   - Java
-  - Computer Vision & Machine Learning                                                                                                                                                                                                                                             --> trained my own EfficientNetB2 with 9.2 million parameters, achieving 98–99% accuracy using TensorFlow and Keras
+  - Computer Vision & Machine Learning   <br>                                                                                                                                                                                                                                          --> trained my own EfficientNetB2 with 9.2 million parameters, achieving 98–99% accuracy using TensorFlow and Keras
   - Databases
   - Linux Administration
   - CCNA on Cisco
