@@ -32,7 +32,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="[https://n8n.io//]" target="_blank" rel="noreferrer">
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
   <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" alt="artificial-intelligence"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
