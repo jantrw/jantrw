@@ -7,9 +7,6 @@
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that provides ISS data and uses the NASA API for astronomical queries, including the Astronomy Picture of the Day and soon Mars weather data, asteroid information, and exoplanet discoveries. 🚀                                                                                
     https://github.com/jantrw/SpaceLinker
     
-  - (Comming soon...)[ TankBuddy](https://github.com/jantrw/TankBuddy), an app that integrates fuel price APIs to display real-time fuel prices in your city, helping you find the cheapest gas station. Future updates will include price trends and regional analysis. ⛽📊  
-    https://github.com/jantrw/TankBuddy
-    
 ### 🤝 Connect with me:
 
 <p align="left">
