@@ -1,11 +1,13 @@
 ### Hi there! 👋🖖🤖
 
 ### 🧑🏻‍💻 I’m currently working on ...
+
   - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a computer-vision workflow for detecting traffic signs (bounding boxes + classification). Includes dataset preparation (GTSRB + custom photos), Roboflow integration for labeling & augmentation, training with YOLOv8, and a Streamlit demo for uploading and visualizing results. Focus: reproducible pipeline, performance metrics (mAP, latency), and deployment options (ONNX / TFLite).
                                                                                                                                                                                    
     https://github.com/jantrw/traffic-sign-detector
     
-    - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built wit a modular view-controller structure and responsive UI for a clean, desktop-native experience.                                                                                                                                                                                     
+- [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built wit a modular view-controller structure and responsive UI for a clean, desktop-native experience.
+  
     https://github.com/jantrw/ClashRoyale-Tracker
     
 ### 🤝 Connect with me:
