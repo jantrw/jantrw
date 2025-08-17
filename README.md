@@ -2,14 +2,12 @@
 
 ### 🧑🏻‍💻 I’m currently working on ...
 
-  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible computer vision pipeline for detecting and classifying German traffic signs (bounding boxes + class names).
+  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible **computer vision** pipeline for detecting and classifying German traffic signs (bounding boxes + class names).
 ##### Main features:
-- Conversion of synthetic and real datasets (SynsetSignsetGermany & GTSRB): masks → contours → YOLO labels (`scripts/convert_synset_to_yolo.py`).
-- Automatic generation of `data/traffic.yaml`, `classes.txt` and `mappings/synset_to_classname.json`.
-- Training helpers: `scripts/train_model/start_train.py`, `scripts/train.ps1` (Windows, GPU-capable, RTX 3070 tested). Includes a smoke test (1 epoch) to validate the pipeline.
-- Utilities: validator (`scripts/validate_yolo_dataset.py`), split/format tools, visualizers.
-
-Focus: reproducible data preparation and robust evaluation.                                                                                                                                           
+- Conversion of synthetic and real datasets (SynsetSignsetGermany): masks → contours → YOLO labels (`scripts/convert_synset_to_yolo.py`).
+- Automatic generation of `data/traffic.yaml`, `classes.txt`.
+- Training helpers: `scripts/train_model/start_train.py` (Windows, GPU-capable, RTX 3070 tested).
+- Utilities: validator (`scripts/validate_yolo_dataset.py`), split/format tools, visualizers.                                                                                                                                         
     
    https://github.com/jantrw/traffic-sign-detector
     
