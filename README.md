@@ -7,7 +7,7 @@
     **Main features:**
        - Conversion of synthetic and real datasets (SynsetSignsetGermany): masks → contours → YOLO labels (`scripts/convert_synset_to_yolo.py`).
       - Automatic generation of `data/traffic.yaml` and `classes.txt`.
-      - Training helpers: `scripts/train_model/start_train.py` (Windows, GPU-capable, RTX 3070 tested). Includes a smoke test (1 epoch).
+      - Training helpers: `scripts/train_model/start_train.py` (Windows, GPU-capable, RTX 3070 tested).
       - Utilities: validator (`scripts/validate_yolo_dataset.py`), split/format tools, visualizers.
                                                                                                                                      
     https://github.com/jantrw/traffic-sign-detector
