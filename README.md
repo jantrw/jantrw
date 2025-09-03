@@ -10,8 +10,7 @@
       - Training helpers: `scripts/train_model/start_train.py` (Windows, GPU-capable, RTX 3070 tested). Includes a smoke test (1 epoch).
       - Utilities: validator (`scripts/validate_yolo_dataset.py`), split/format tools, visualizers.
                                                                                                                                      
-    
-   https://github.com/jantrw/traffic-sign-detector
+    https://github.com/jantrw/traffic-sign-detector
     
 - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built wit a modular view-controller structure and responsive UI for a clean, desktop-native experience.
   
