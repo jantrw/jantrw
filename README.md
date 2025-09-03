@@ -13,6 +13,9 @@
     https://github.com/jantrw/traffic-sign-detector
     
 - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built wit a modular view-controller structure and responsive UI for a clean, desktop-native experience.
+
+- CCNA: Enterprise Networking, Security, and Automation
+- CCNA: Switching, Routing, and Wireless Essentials
   
     https://github.com/jantrw/ClashRoyale-Tracker
     
@@ -29,7 +32,6 @@
   - Computer Vision & Machine Learning   <br>                                                                                                                                                                                                                                          --> trained my own EfficientNetB2 with 9.2 million parameters, achieving 98–99% accuracy using TensorFlow and Keras
   - Databases
   - Linux Administration
-  - CCNA on Cisco
 
 # 💻 Tech Stack:
 
