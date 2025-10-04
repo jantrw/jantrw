@@ -27,8 +27,10 @@
     
 ### 🌱 I’m currently learning 
   - Java
-  - Computer Vision & Machine Learning   <br>                                                                                                                                                                                                                                          --> trained my own EfficientNetB2 with 9.2 million parameters, achieving 98–99% accuracy using TensorFlow and Keras
+  - AI — focusing on Computer Vision & Machine Learning   <br>
+    ↳ built and trained a [YOLOv8m object detection model](https://github.com/jantrw/traffic-sign-detector) (≈25.9M parameters) on a custom dataset, reaching around 98–99% object detection accuracy
   - Databases
+  -  Networking — focusing on network architecture and communication
   - Linux Administration
 
 # 💻 Tech Stack:
