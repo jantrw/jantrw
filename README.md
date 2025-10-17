@@ -26,11 +26,12 @@
 </p>
     
 ### 🌱 I’m currently learning 
-  - Java
+  - Java (with Spring Boot)
   - AI — focusing on Machine Learning & Computer Vision   <br>
     ↳ built and trained a [YOLOv8m object detection model](https://github.com/jantrw/traffic-sign-detector) (≈25.9M parameters) on a custom dataset, reaching around 98–99% object detection accuracy
   - Databases
-  -  Networking — focusing on network architecture and communication
+  - Javascript
+  - Networking — focusing on network architecture and communication
   - Linux Administration
 
 # 💻 Tech Stack:
