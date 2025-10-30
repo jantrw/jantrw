@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 I’m currently working on ...
 
-  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible <u><strong>computer-vision and machine-learning</strong></u> pipeline for detecting and classifying German traffic signs (bounding boxes + class names).
+  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible <u><strong>computer-vision and machine-learning</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).
 
     **Main features:**
        - Conversion of synthetic and real datasets (SynsetSignsetGermany): masks → contours → YOLO labels (`scripts/convert_synset_to_yolo.py`).
