@@ -68,11 +68,11 @@
 ### 🌱 I’m currently learning 
   - Software and Cloud Architecture
   - Java (with Spring Boot & Security)
-  - AI — focusing on LLMs, Automations with n8n, Machine Learning, Computer Vision   <br>
+  - AI - focusing on LLMs, Automations with n8n, Machine Learning, Computer Vision   <br>
     ↳ built and trained a [YOLOv8m object detection model](https://github.com/jantrw/traffic-sign-detector) (≈25.9M parameters) on a custom dataset, reaching around 98–99% object detection accuracy
   - Databases
   - Javascript (with Vue.js)
-  - Networking — focusing on network architecture and communication
+  - Networking - focusing on network architecture and communication
   - Linux Administration
 
 <img src='https://i.imgur.com/9FhaE5v.jpeg' style="height: 400px;"/>
