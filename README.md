@@ -4,7 +4,7 @@
 
 ### Software Engineer (FIAE) @ Frankfurt, Germany 🇩🇪
 
-**Spring Boot | Software and Cloud Architecture | AI (LLMs, DL & Automations)**
+**Software and Cloud Architecture | Spring Boot | AI (LLMs, DL & Automations)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trw-jan/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jan.trautwein11@gmail.com)
