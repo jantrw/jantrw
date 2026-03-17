@@ -15,7 +15,7 @@
 
   - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible <u><strong>computer-vision and machine-learning</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
 
-  - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with [Hunter-Alpha](https://openrouter.ai/openrouter/hunter-alpha), a chinese LLM with 1 trillion params.
+  - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with Codex/Claude Code or [Hunter-Alpha](https://openrouter.ai/openrouter/hunter-alpha), a chinese LLM with 1 trillion params.
   
   - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built with a **modular view-controller structure** and responsive UI for a clean, desktop-native experience.
 
