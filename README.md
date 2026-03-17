@@ -17,7 +17,7 @@
 
   - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with Codex/Claude Code or [Hunter-Alpha](https://openrouter.ai/openrouter/hunter-alpha), a free chinese LLM with 1 trillion params.
   
-  - [ClashRoyale-Tracker](https://github.com/jantrw/ClashRoyale-Tracker), a JavaFX desktop application that fetches and visualizes player data from the official Clash Royale API. It displays key statistics like trophies, win rate, and recent match history. Built with a **modular view-controller structure** and responsive UI for a clean, desktop-native experience.
+  - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that connects people with space, featuring real-time **ISS tracking** (position, speed, altitude, country/city) and NASA's **Astronomy Picture of the Day** with full descriptions. Built with **Java, JDA, and multiple space APIs** (Open Notify, Nominatim, GeoNames, NASA APOD) using modern slash commands.
 
 - CCNA: Enterprise Networking, Security, and Automation
 - CCNA: Switching, Routing, and Wireless Essentials
