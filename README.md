@@ -15,7 +15,7 @@
 
   - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible <u><strong>computer-vision and machine-learning</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
 
-  - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with Codex/Claude Code or [Hunter-Alpha](https://openrouter.ai/openrouter/hunter-alpha), a free chinese LLM with 1 trillion params.
+  - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with Codex/Claude Code.
   
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that connects people with space, featuring real-time **ISS tracking** (position, speed, altitude, country/city) and NASA's **Astronomy Picture of the Day** with full descriptions. Built with **Java, JDA, and multiple space APIs** (Open Notify, Nominatim, GeoNames, NASA APOD) using modern slash commands.
 
