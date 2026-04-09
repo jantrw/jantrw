@@ -13,46 +13,31 @@
 
 ### 🧑🏻‍💻 I’m currently working on ...
 
-  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a reproducible <u><strong>computer-vision and machine-learning</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
+  - [car-fuel-live](https://github.com/jantrw/car-fuel-live), a public web app for finding <u><strong>live fuel prices</strong></u> around a user's city in Germany and nearby Europe.
 
-  - Agents and Workflows with [OpenClaw](https://openclaw.ai/) combined with Codex/Claude Code.
-  
-  - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Discord bot that connects people with space, featuring real-time **ISS tracking** (position, speed, altitude, country/city) and NASA's **Astronomy Picture of the Day** with full descriptions. Built with **Java, JDA, and multiple space APIs** (Open Notify, Nominatim, GeoNames, NASA APOD) using modern slash commands.
+  - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a <u><strong>machine-learning and computer-vision</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
 
-- CCNA: Enterprise Networking, Security, and Automation
-- CCNA: Switching, Routing, and Wireless Essentials
+  - Agents and Workflows with [OpenClaw](https://github.com/openclaw/openclaw) combined with [Codex](https://openai.com/codex) and [Claude Code](https://www.anthropic.com/product/claude-code).
 
 ---
 
 # 💻 Tech Stack:
 
 **Current:**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 **Learning:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 
 ---
-
-    
-### 🌱 I’m currently learning 
-  - Software and Cloud Architecture
-  - Java (with Spring Boot & Security)
-  - AI - focusing on LLMs, Automations with n8n, Machine Learning, Computer Vision   <br>
-    ↳ built and trained a [YOLOv8m object detection model](https://github.com/jantrw/traffic-sign-detector) (≈25.9M parameters) on a custom dataset, reaching around 98–99% object detection accuracy
-  - Databases
-  - Javascript (with Vue.js)
-  - Networking - focusing on network architecture and communication
-  - Linux Administration
-
-<img src='https://i.imgur.com/9FhaE5v.jpeg' style="height: 400px;"/>
