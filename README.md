@@ -12,11 +12,13 @@
 
 ### 🧑🏻‍💻 Current Work & Previous Projects
 
-  - [car-fuel-live](https://github.com/jantrw/car-fuel-live), a public web app for finding <u><strong>live fuel prices</strong></u> around a user's city in Germany and nearby Europe.
+  - [car-fuel-live](https://github.com/jantrw/car-fuel-live), an open-source public web app for finding <u><strong>live fuel prices</strong></u> around a user's city in Germany and nearby Europe.
 
   - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a <u><strong>machine-learning and computer-vision</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
 
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Java-based <u><strong>Discord bot integrating NASA APIs</strong></u> for APOD, ISS tracking, and slash-command-based interactions.
+
+  - [SmarTown](https://github.com/fes-wiesbaden/smartown), a university <u><strong>IoT smart-city project</strong></u> built with ESP32, MQTT, Spring Boot, and Vue for live web control, automation, and sensor-driven city modules.
 
   - Agents and Workflows with [OpenClaw](https://github.com/openclaw/openclaw) combined with [Codex](https://openai.com/codex) and [Claude Code](https://www.anthropic.com/product/claude-code).
 
