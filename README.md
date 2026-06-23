@@ -4,7 +4,7 @@
 
 ### Software Engineer (FIAE) @ Wiesbaden, Germany 🇩🇪
 
-**Backend Engineering | DevOps & CI/CD | AI (ML & Automations)**
+**Backend Engineering | DevOps & CI/CD | AI (LLMs & Automations)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trw-jan/)
 
