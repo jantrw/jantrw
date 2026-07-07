@@ -20,7 +20,7 @@
 
   - [SmarTown](https://github.com/fes-wiesbaden/smartown), a university <u><strong>IoT smart-city project</strong></u> built with ESP32, MQTT, Spring Boot, and Vue for live web control, automation, and sensor-driven city modules.
 
-  - Agents and Workflows with [OpenClaw](https://github.com/openclaw/openclaw) combined with [Codex](https://openai.com/codex) and [Claude Code](https://www.anthropic.com/product/claude-code).
+  - Agents and Workflows with [Codex](https://openai.com/codex) and [Claude Code](https://www.anthropic.com/product/claude-code).
 
 ---
 
@@ -44,11 +44,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
 **Learning:**
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 ---
