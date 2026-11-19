@@ -2,7 +2,7 @@
 
 # Hi, I'm Jan 👋
 
-### Software Engineer (FIAE) @ Wiesbaden, Germany 🇩🇪
+### Software Engineer @ Wiesbaden, Germany 🇩🇪
 
 **Backend Engineering | DevOps | AI (LLMs & Automations) | Open-Source Contributor**
 
