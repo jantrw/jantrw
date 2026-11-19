@@ -2,7 +2,7 @@
 
 # Hi, I'm Jan 👋
 
-### Software Engineer @ Wiesbaden, Germany 🇩🇪
+### Software Engineer @ BMI
 
 **Backend Engineering | DevOps | AI (LLMs & Automations) | Open-Source Contributor**
 
