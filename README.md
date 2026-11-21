@@ -12,13 +12,15 @@
 
 ### 🧑🏻‍💻 Current Work & Previous Projects
 
-  - [skills](https://github.com/jantrw/skills), a collection of agent skills for coding workflows.
+  - **Open-source work** across projects including Microsofts [vcpkg](https://github.com/microsoft/vcpkg) + [PowerToys](https://github.com/microsoft/PowerToys), [Spring Boot](https://github.com/spring-projects/spring-boot), [PMD](https://github.com/pmd/pmd) and a lot more.
 
-  - [car-fuel-live](https://github.com/jantrw/car-fuel-live), an open-source public web app for finding <u><strong>live fuel prices</strong></u> around a user's city in Germany and nearby Europe.
+  - [skills](https://github.com/jantrw/skills), a collection of agent skills for general work and coding/tech workflows.
 
   - [traffic-sign-detector](https://github.com/jantrw/traffic-sign-detector), a <u><strong>machine-learning and computer-vision</strong></u> project for detecting and classifying German traffic signs (bounding boxes + class names).                                                                                                                               
 
   - [SmarTown](https://github.com/fes-wiesbaden/smartown), a university <u><strong>IoT smart-city project</strong></u> built with ESP32, MQTT, Spring Boot, and Vue for live web control, automation, and sensor-driven city modules.
+
+  - [car-fuel-live](https://github.com/jantrw/car-fuel-live), an open-source public web app for finding <u><strong>live fuel prices</strong></u> around a user's city in Germany and nearby Europe.
 
   - [SpaceLinker](https://github.com/jantrw/SpaceLinker), a Java-based <u><strong>Discord bot integrating NASA APIs</strong></u> for APOD, ISS tracking, and slash-command-based interactions.
 
@@ -30,9 +32,10 @@
 
 **Current:**
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
@@ -42,8 +45,8 @@
 [![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 ![Skills & Hooks](https://img.shields.io/badge/Skills%20%26%20Hooks-0F766E?style=flat-square)
 ![Agentic Engineering](https://img.shields.io/badge/Agentic%20Engineering-7C3AED?style=flat-square)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 **Worked With:**
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
